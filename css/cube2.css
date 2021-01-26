@@ -34,33 +34,34 @@
 
 #box-front {
   transform: translateX(-100px) translateY(-100px) translateZ(100px);
-  background: rgba(0, 6, 246, 0.5);
+  background:#0F3255;
 }
 
 #box-back {
   transform: translateX(-100px) translateY(-100px) translateZ(-100px);
-  background: rgba(0, 6, 246, 0.5);
+  background: #0F3255;
 }
 
 #box-right {
   transform: translateY(-100px) rotateY(90deg);
-  background: rgba(0, 6, 246, 0.5);
+  background:#0F3255;
 }
 
 #box-left {
   transform: translateY(-100px) translateX(-200px) rotateY(90deg);
-  background: rgba(0, 6, 246, 0.5);
+  background: #0F3255;
 }
 
 #box-top {
   transform: translateX(-100px) translateY(-200px) rotateX(90deg);
-  background: rgba(0, 6, 246, 0.5);
+  background:#0F3255;
 }
 
 #box-bottom {
   transform: translateX(-100px) rotateX(90deg);
-  background:  rgba(0, 6, 246, 0.5);
-   box-shadow: 30px 30px 30px 30px  #aaaaaa;
+  background: #0F3255;
+   box-shadow:  0 0 40px 15px;
+   
 }
 
 .box-area {
