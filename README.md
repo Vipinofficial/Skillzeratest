@@ -1,1 +1,1 @@
-# [Skillzera live]( https://vipinofficial.github.io/Skilleratest/)
+# [Skillzera live](https://vipinofficial.github.io/Skillzeratest/)
